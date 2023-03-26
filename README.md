@@ -1,12 +1,16 @@
-# <center> Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil! 
+# Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil! 
 
 #### Foco em desenvolvimento Front-end, aspirando desenvolvimento Full Stack. 
 #### Técnico em Informática e atualmente cursando Bacharelado em Sistemas de Informação.
 #### Apaixonado pela natureza.
 <br>
 
-[![](https://github-readme-stats.vercel.app/api?username=jonatas-pereira)](https://github.com/jonatas-pereira/github-readme-stats)
-<br>
+<div align="center"> 
+
+  [![](https://github-readme-stats.vercel.app/api?username=jonatas-pereira)](https://github.com/jonatas-pereira/github-readme-stats)
+  
+</div>
+
 
 ## Tecnologias que utilizo no dia a dia
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
