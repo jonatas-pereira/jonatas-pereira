@@ -1,8 +1,8 @@
 # Olá, sou Jônatas, seja bem-vindo ao meu perfil!
 
-### Foco no desenvolvimento Front-end, aspirando desenvolvedor Full Stack Web. 
-### Técnico em Informática e atualmente cursando Bacharelado em Sistemas de Informação.
-### Apaixonado pela natureza.
+#### Foco no desenvolvimento Front-end, aspirando desenvolvimento Full Stack Web. 
+#### Técnico em Informática e atualmente cursando Bacharelado em Sistemas de Informação.
+#### Apaixonado pela natureza.
 <br>
 
 [![](https://github-readme-stats.vercel.app/api?username=jonatas-pereira)](https://github.com/jonatas-pereira/github-readme-stats)
