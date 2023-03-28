@@ -5,12 +5,6 @@
 <p>Apaixonado pela natureza.</p>
 <br>
 
-<div align="center"> 
-
-  [![](https://github-readme-stats.vercel.app/api?username=jonatas-pereira)](https://github.com/jonatas-pereira/github-readme-stats)
-
-</div>
-
 ## Tecnologias que utilizo no dia a dia
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
