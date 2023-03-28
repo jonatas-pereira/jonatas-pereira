@@ -1,7 +1,7 @@
 # Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil! 
 
-<p>Foco em desenvolvimento Front-end, aspirando desenvolvimento Full Stack.</p>
-<p>Técnico em Informática e atualmente cursando Bacharelado em Sistemas de Informação.</p>
+<p>Desenvolvimento Front-end principal.</p>
+<p>Técnico em Informática, atualmente cursando Bacharelado em Sistemas de Informação.</p>
 <p>Apaixonado pela natureza.</p>
 
 ## Tecnologias que utilizo no dia a dia
