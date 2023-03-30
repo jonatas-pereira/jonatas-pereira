@@ -3,7 +3,6 @@
 <p>Desenvolvimento Front-end principal.</p>
 <p>Técnico em Informática, atualmente cursando Bacharelado em Sistemas de Informação.</p>
 <p>Apaixonado por tecnologia e pela natureza.</p>
-<br>
 
 ### Tecnologias que utilizo no dia a dia
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
