@@ -1,6 +1,5 @@
 # Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil! 
 
-<p>Desenvolvimento Front-end.</p>
 <p>Técnico em Informática, atualmente cursando Bacharelado em Sistemas de Informação.</p>
 <p>Apaixonado por tecnologia e pela natureza.</p>
 
