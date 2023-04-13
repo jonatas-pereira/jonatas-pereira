@@ -1,4 +1,8 @@
-# Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil! 
+# Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil!
+
+<p>Foco no desenvolvimento Front-end(React, TypeScript), interessado pela áraea de desenvolvimento Back-End(Node.js) e administração e manutenção de base de dados.</p>
+<p>Acadêmico de Sistemas de Informação, atualmente cursando sétimo período, e técnico em informática.</p>
+<p>Apaixonado por tecnologia e pela natureza.</p>
 
 ### Tecnologias que utilizo no dia a dia
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
