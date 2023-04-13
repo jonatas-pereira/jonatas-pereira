@@ -15,6 +15,6 @@
 <br>
 
 ### Contato
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jônatas-pereira-da-rocha-02050124a)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/jônatas-pereira-da-rocha-02050124a](https://www.linkedin.com/in/j%C3%B4natas-pereira-da-rocha-02050124a/))
 
 
