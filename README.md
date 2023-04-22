@@ -1,7 +1,7 @@
 # Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil!
 
 <p>Foco no desenvolvimento Front-end(React, TypeScript), interessado por desenvolvimento Back-End(Node.js) e administração e manutenção de base de dados.</p>
-<p>Acadêmico de Sistemas de Informação e técnico em informática.</p>
+<p>Acadêmico de Sistemas de Informação e Técnico em Informática.</p>
 <p>Apaixonado por tecnologia e pela natureza.</p>
 
 ### Tecnologias que utilizo no dia a dia
