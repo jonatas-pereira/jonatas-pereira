@@ -1,8 +1,8 @@
 # Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil!
 
-<p>Desenvolvedor front-end.</p>
+<p>Desenvolvedor Full Stack web.</p>
 <p>Acadêmico de Sistemas de Informação.</p>
-<p>Apaixonado por tecnologia e pela natureza.</p>
+<p>Apaixonado pela natureza.</p>
 
 ### Tecnologias que utilizo no dia a dia
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
