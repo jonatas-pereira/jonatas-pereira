@@ -1,6 +1,6 @@
 # Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil!
 
-<p>Desenvolvedor Full Stack web.</p>
+<p>Desenvolvedor Full Stack.</p>
 <p>Acadêmico de Sistemas de Informação.</p>
 <p>Apaixonado pela natureza.</p>
 
