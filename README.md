@@ -1,8 +1,4 @@
-# Olá 🖐🏽, sou Jônatas, seja bem-vindo ao meu perfil!
-
-<p>Desenvolvedor Full Stack.</p>
-<p>Acadêmico de Sistemas de Informação.</p>
-<p>Apaixonado pela natureza.</p>
+<img src="banner.png">
 
 ### Linguagens, tecnologias e ferramentas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
